@@ -1,0 +1,768 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De variolis &amp; morbillis: Of the small pox and measles: with their definitions, distinctions, causes, differences, signs, prognosticks, and cures, with cautions in aire and diet to prevent them. Also cordiall remedies, by which we may preserve our bodies from them, with locall medicines of excellent vertues to be applied outwardly or carried in the hand, to repel the venemous and pestiferous aire from entring into the body. / By Anthony Westwood, practitioner in Physick and Chirurgery at Arundel in Sussex.</title>
+            <author>Westwood, Anthony.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96258</idno>
+            <idno type="STC">Wing W1486</idno>
+            <idno type="STC">Thomason E1674_3</idno>
+            <idno type="STC">ESTC R208425</idno>
+            <idno type="EEBO-CITATION">99867380</idno>
+            <idno type="PROQUEST">99867380</idno>
+            <idno type="VID">170250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170250)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 209:E1674[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>De variolis &amp; morbillis: Of the small pox and measles: with their definitions, distinctions, causes, differences, signs, prognosticks, and cures, with cautions in aire and diet to prevent them. Also cordiall remedies, by which we may preserve our bodies from them, with locall medicines of excellent vertues to be applied outwardly or carried in the hand, to repel the venemous and pestiferous aire from entring into the body. / By Anthony Westwood, practitioner in Physick and Chirurgery at Arundel in Sussex.</title>
+                  <author>Westwood, Anthony.</author>
+               </titleStmt>
+               <extent>[20], 92 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for H. Seyle, at the Black Boy over against S. Dunstans Church in Fleetstreet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November]. 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Measles --  England --  Early works to 1800.</term>
+               <term>Smallpox --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170250:1" rendition="simple:additions"/>
+            <p>BE <hi>Variolis &amp; Morbillis:</hi> OF THE SMALL POX AND MEASLES: With their Definitions, Diſtincti<g ref="char:EOLhyphen"/>ons Cauſes, Differences, Signs, Prognoſticks, and Cur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, with Cautions in Aire and Diet to prevent them.</p>
+            <p>Alſo Cordiall Remedies, by which we may preſerve our Bodies from them, with locall Medicines of excellent vertues to be applied outwardly or carried in the hand, to repel the venemous and peſtife<g ref="char:EOLhyphen"/>rous aire from entring into the body.</p>
+            <p>By <hi>Anthony Weſtwood,</hi> Practitioner in Phyſick and Chirurgery at <hi>Arundel</hi> in <hi>Suſſex.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> for <hi>H. Seyle,</hi> at the Black Boy over againſt <hi>S. Dunſtans</hi> Church in Fleetſtreet 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170250:2"/>
+            <pb facs="tcp:170250:2"/>
+            <head>To the <hi>Honourable and ſingular<g ref="char:EOLhyphen"/>ly vertuous, Mrs.</hi> Margaret Morley <hi>of</hi> Glyn <hi>in</hi> Suſſex. <hi>The Author conſecrateth theſe his Labours.</hi>
+            </head>
+            <opener>
+               <salute>Honourable Mrs.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He principall <hi>motive</hi> which impelled mee to conſecrate the ſub<g ref="char:EOLhyphen"/>ſequent Treatiſe unto
+<pb facs="tcp:170250:3"/> your Name, is the ſame which at the firſt invited me to pen it, and that was to pu<g ref="char:EOLhyphen"/>bliſh it to the benefit of the Towne and Countrey wherein I live, that every one that would but take the paines to peruſe this little Tract, &amp; make triall of the receipts of Phyſick and Chirur<g ref="char:EOLhyphen"/>gery at large declared therein, might much benefit themſelves, &amp;
+<pb facs="tcp:170250:3"/> doe much good to their acquaintance &amp; friends.</p>
+            <p>Honoured Miſtreſs, nothing hath more afflicted me than the death of him who truly honoured you in his life, and was truly beloved by you to his death, your dear Brother, my beſt Friend, <hi>William Morley</hi> Eſquire, who died of this contagious diſ<g ref="char:EOLhyphen"/>eaſe, the <hi>Small Pox.</hi> I
+<pb facs="tcp:170250:4"/> ſhall ever admire and proclaim his vertues and goodneſs, who of his innate &amp; noble di<g ref="char:EOLhyphen"/>ſpoſition, loved all his followers in generall, as his fellow-ſouldi<g ref="char:EOLhyphen"/>ers. I wept for him at his death, as for a Brother, and after death ſaw him ho<g ref="char:EOLhyphen"/>nourably buried, as a Souldier; but I'le la<g ref="char:EOLhyphen"/>ment no more his death, who is tranſla<g ref="char:EOLhyphen"/>ted into a better life,
+<pb facs="tcp:170250:4"/> nor weepe for him that is in joy, nor put on mourning clothes for him that is clo<g ref="char:EOLhyphen"/>thed with Immorta<g ref="char:EOLhyphen"/>lity; whom death hath parted, I hope bleſſed eternity ſhall at length bring toge<g ref="char:EOLhyphen"/>ther again. So I leave him and returne to you; I have ſtrived to ſhape my ſubject to the affection of ſo ho<g ref="char:EOLhyphen"/>nourable a Patroneſs as your ſelf, to whom
+<pb facs="tcp:170250:5"/> I dedicate this rude piece, which I could have wiſhed might have been underta<g ref="char:EOLhyphen"/>ken by a more able workman: vouchſafe therefore to ſhroud under your protecti<g ref="char:EOLhyphen"/>on this unpoliſhed worke which I offer not as a Preſent, but as a Homage I owe you. And therefore the marke I chiefly aimed at, was not at a<g ref="char:EOLhyphen"/>ny vain hope of praiſe
+<pb facs="tcp:170250:5"/> to my ſelf (which how little I hereby deſerve I am not ſo weak but to perceive) but to leave a teſtimony to my Countrey, how much I deſire her be<g ref="char:EOLhyphen"/>nefit, and to your ſelf, how much I am bound to remain,</p>
+            <closer>
+               <salute>Miſtreſs,</salute>
+               <signed>Yours in all dutiſull obſervance, A. Westwood.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:170250:6"/>
+            <pb facs="tcp:170250:6"/>
+            <head>The PREFACE TO The Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>THe chiefeſt thing that induced me to publiſh theſe Collections, was a principall aim at the good of theſe in the town where<g ref="char:EOLhyphen"/>in I live, which hath been much viſited with theſe</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Variolae, <hi>or</hi>
+               <pb facs="tcp:170250:7"/> Small Pox. <hi>And there<g ref="char:EOLhyphen"/>fore I have adventured to divulge many receipts of my Fathers, who lived an able Phyſitian, and in great practice above fifty yeares in this Town of</hi> Arundell. <hi>I have alſo ſet down many receipts by me daily practi<g ref="char:EOLhyphen"/>ſed (and therefore need no</hi> probatum <hi>to be anne<g ref="char:EOLhyphen"/>xed) with divers vari<g ref="char:EOLhyphen"/>eties not publiſhed by any heretofore, which I hope will be to the great benefit of all ſuch as ſhall have oc<g ref="char:EOLhyphen"/>caſion to practiſe any thing herein contained; where I ſtrive not to ſet forth an e<g ref="char:EOLhyphen"/>loquent ſtyle (as if it were ſome fancy-delighting Hi<g ref="char:EOLhyphen"/>ſtory)
+<pb facs="tcp:170250:7"/> but a plain way to help the poorer ſort: I here produce a thing ſerious, and for the generall good, eſpecially of thoſe whom it ſhall pleaſe God to viſit with this diſeaſe. Some perhaps will think that thoſe who knowing ſuch things, would be loth to publiſh them, and make their Science common; but I am rather of the mindes of thoſe who once a yeare writ in the temple of</hi> AE<g ref="char:EOLhyphen"/>ſculapius <hi>all the cures they had performed, and by what remedies; and I think with</hi> Ariſtotle, <hi>that a good thing is the better the more common it is:</hi>
+               <pb facs="tcp:170250:8"/> 
+               <hi>and as</hi> Cicero <hi>ſaith, we are not born to our ſelves; if any thing in this ſmall Tract may bring glory to God, any good to his Peo<g ref="char:EOLhyphen"/>ple, I have my deſire and aim: I will not ſtand to amplifie any further, be<g ref="char:EOLhyphen"/>cauſe all that I ſeek in this book is to eſchew prolixity; for I know there are a ſort of Criticks, that will ra<g ref="char:EOLhyphen"/>ther carp at a fault, than amend it. But Reader I end, craving thy faveura<g ref="char:EOLhyphen"/>ble acceptation; which will encourage me to publiſh a very neceſſary Tract of the Diſeaſes of Women and Children, intituled</hi> De Morbis mulierum &amp; in<g ref="char:EOLhyphen"/>fantium.
+<pb facs="tcp:170250:8"/> 
+               <hi>Thus much I thought good to acquaint thee with, wiſhing thee all happineſſe.</hi>
+            </p>
+            <closer>
+               <signed>Thy well-wiſhing Friend Anth. Weſtwood.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:170250:9"/>
+            <pb facs="tcp:170250:9"/>
+            <head>Upon the death of my very good friend Dr. <hi>JOHN WESTWOOD.</hi>
+            </head>
+            <l>
+               <hi>GReat</hi> Weſtwood'<hi>s fall'n; let my lamenting Verſe</hi>
+            </l>
+            <l>
+               <hi>Doe its laſt duty to thy mourning Herſe.</hi>
+            </l>
+            <l>
+               <hi>All we can doe is but to let men ſee</hi>
+            </l>
+            <l>
+               <hi>How much we owe unto thy memory.</hi>
+            </l>
+            <l>
+               <hi>Great ſoul, diſcharg'd of thy baſe mould, whoſe All</hi>
+            </l>
+            <l>
+               <hi>And ev'ry part we justly Spirit call.</hi>
+            </l>
+            <l>
+               <hi>Though here, he liv'd not here; his free deſires</hi>
+            </l>
+            <l>
+               <hi>Were alwayes quickned with celestiall fires.</hi>
+            </l>
+            <l>
+               <hi>Thy high born ſoul tow'rd to its proper place;</hi>
+            </l>
+            <l>
+               <hi>Reſtleſs, unwearied, till't bad run its race.</hi>
+            </l>
+            <l>
+               <hi>'Tis true, thy body made us think thee Clay;</hi>
+            </l>
+            <l>
+               <hi>But thy refined ſelf did more diſplay</hi>
+            </l>
+            <l>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto our ſecond thoughts, whilſt we could ſpy</hi>
+            </l>
+            <l>
+               <hi>Thy Vertues ſpeak ſo much Divinity:</hi>
+            </l>
+            <pb facs="tcp:170250:10"/>
+            <l>
+               <hi>Through that darkeſome veyle who could not ſee</hi>
+            </l>
+            <l>
+               <hi>Thy Lynce <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y'd ſoul peep at Eternity?</hi>
+            </l>
+            <l>
+               <hi>This world was but the trouble of thy mind.</hi>
+            </l>
+            <l>
+               <hi>Which now by ſeparation is reſin'd,</hi>
+            </l>
+            <l>
+               <hi>And like it ſelf; thy now ſublimed Sprite</hi>
+            </l>
+            <l>
+               <hi>(The veyl being drawn) enjoyes its Eagle ſight.</hi>
+            </l>
+            <l>
+               <hi>What once in contemplation thou didſt ſee,</hi>
+            </l>
+            <l>
+               <hi>By death thou haſt a full diſcovery.</hi>
+            </l>
+            <l>
+               <hi>Enjoy thy Trophies Death; what thoss baſt done</hi>
+            </l>
+            <l>
+               <hi>Is but to make the blind enjoy the Sun.</hi>
+            </l>
+            <l>
+               <hi>Inſtead of hurting thoss haſt ſet him free,</hi>
+            </l>
+            <l>
+               <hi>Lately a Pris'ner, now at liberty.</hi>
+            </l>
+            <l>
+               <hi>Triumph then in thy Conqueſt, who'l deny</hi>
+            </l>
+            <l>
+               <hi>To loſe this life to catch Eternity?</hi>
+            </l>
+            <l>
+               <hi>But now I've found thy plot; great</hi> Weſtwood'<hi>s Art</hi>
+            </l>
+            <l>
+               <hi>Hindred thy Spoils, lockt up thy ruſty dart;</hi>
+            </l>
+            <l>
+               <hi>His skill, like a ſtrong Bulwark, did withſtand</hi>
+            </l>
+            <l>
+               <hi>The fatall ſtrokes of thy deſtroying hand:</hi>
+            </l>
+            <pb facs="tcp:170250:10"/>
+            <l>
+               <hi>When thou hadst paſt thy Sentence, he could give</hi>
+            </l>
+            <l>
+               <hi>Beyond all hope a wonderfull Reprieve.</hi>
+            </l>
+            <l>
+               <hi>Nay thou hadſt miſs'd him, had not feeble Age</hi>
+            </l>
+            <l>
+               <hi>Made him the object of thy cruell rage;</hi>
+            </l>
+            <l>
+               <hi>Then to encounter him, when 'twas too late</hi>
+            </l>
+            <l>
+               <hi>(Nature ſuccumbing) to divert his fate.</hi>
+            </l>
+            <l>
+               <hi>'Twas well advis'd, to ſtrike when the last ſand</hi>
+            </l>
+            <l>
+               <hi>Was run; Stout Champion! bid a bound man ſtand.</hi>
+            </l>
+            <l>
+               <hi>This is thy Trophy, thus thou'rt magni<g ref="char:EOLhyphen"/>fied;</hi>
+            </l>
+            <l>
+               <hi>Naturs conſum'd, Oyle ſpent, Sand out, he died.</hi>
+            </l>
+            <closer>
+               <signed>F. Haddon, <hi>Doctor of Phyſick.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170250:11"/>
+            <pb n="1" facs="tcp:170250:11"/>
+            <head>
+               <hi>DEVARIOLIS</hi> ET <hi>Morbillis:</hi> Of the <hi>Small Pox and Meaſles.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Small Pox is <note place="margin">Variolae quid.</note> called in Latin <hi>Variolae.</hi>
+            </p>
+            <p>Thoſe little A<g ref="char:EOLhyphen"/>ſpetities of the Sk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, like St. <hi>Anthony</hi>'s <hi>Fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> which are diſcuſſed within five or ſeven dayes without ſuppuration, are called in La<g ref="char:EOLhyphen"/>tine <hi>Morbilli,</hi> in Engliſh Mea<g ref="char:EOLhyphen"/>ſles.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Papulae. Sunt</hi> 
+               <note place="margin">Goreus.</note> 
+               <hi>eruptiones leves humorum per<g ref="char:EOLunhyphen"/>cutem.</hi>
+            </p>
+            <pb n="2" facs="tcp:170250:12"/>
+            <p>
+               <hi>Variolae. Sunt puſtnlae in ſumma cute.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Morbilli verò</hi> 
+               <note place="margin">Seunertus.</note> 
+               <hi>ſunt maculae aut tubercula par<g ref="char:EOLhyphen"/>va: Subjectum eſt cutis quae</hi> 
+               <note place="margin">Morbilli quid.</note> '<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>dicitur.</hi>
+            </p>
+            <p>The Small Pox are Puſtles, and the Meaſles Spots, which ariſe in the top of the skin, by <note place="margin">What the Small Pox and Mea<g ref="char:EOLhyphen"/>ſles are.</note> reaſon of the impurity of the corrupt blood ſent, thither by the force of Nature.</p>
+            <p>This Impurity is the re<g ref="char:EOLhyphen"/>licks of the menſtruous blood remaining in the body of the <note place="margin">Their matter.</note> Infant, being of that matter from whence it drew nou<g ref="char:EOLhyphen"/>riſhment in the womb.</p>
+            <p>It is ſtirred up at the firſt opportunity of a hotter ſum<g ref="char:EOLhyphen"/>mer, or a hidden malignity in the aire, and boyling up, or working with the whole maſs of the blood, ſpread or ſhew
+<pb n="3" facs="tcp:170250:12"/> themſelves upon the whole ſurface of the body.</p>
+            <p>There is as much difference between the Small Pox and the Meaſles, as there is betweene a Carbuncle and a peſtilent Bubo; for a Bubo and Carbuncle are tumors of a near effinity, ſo that the one doth ſcarce come without the other, conſiſting of one kinde of matter, unleſſe that which maketh the Bubo is more groſſe and clammy, and that which cauſeth the Carbuncle more ſharp, burning and ra<g ref="char:EOLhyphen"/>ging, by reaſon of its greater ſubtilty.</p>
+            <p>Theſe Carbuncles and Bu<g ref="char:EOLhyphen"/>boes do riſe in divers parts of the body, but eſpecially where the Glandules are; becauſe the expulſive faculty being provoked by a malignant
+<pb n="4" facs="tcp:170250:13"/> quality, does expel the perni<g ref="char:EOLhyphen"/>cious matter from the inter<g ref="char:EOLhyphen"/>nall parts eſpecially, the more noble ones to the externall; ſo that from the Brain ſhe ſends it to the Glandules or Kernels behinde the Eares, from the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art to the A m<g ref="char:EOLhyphen"/>pits, from the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver to the Groyns; whence ſwellings under th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res called <hi>Paro<g ref="char:EOLhyphen"/>tides,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d thoſe in the G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yn called <hi>Bubones,</hi> do ariſe.</p>
+            <p>For the Small Pox ariſe of a more groſle and viſcous matter, but the Meaſles of a more ſubt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l and hot.</p>
+            <p>The Meaſles yeild no marks, but certain ſmall ſpots with<g ref="char:EOLhyphen"/>out any tumour, and they ei<g ref="char:EOLhyphen"/>ther red, purple, or black.</p>
+            <p>There is another kinde of Puſtles common to children, called the Chryſtals, they are
+<pb n="5" facs="tcp:170250:13"/> white, and as it were bladders full of a wheyiſh humour; theſe cauſe no danger: with<g ref="char:EOLhyphen"/>in three dayes they break and dry up.</p>
+            <p>The Small Pox are extube<g ref="char:EOLhyphen"/>rating Puſtles, white in the midſt, but red in the circum<g ref="char:EOLhyphen"/>ſerence, yet they are ſcarce known on the firſt or ſecond day they appeare; but on the third and fourth day they bunch and riſe into a tumour, and are white before they ſcab, but the Meaſles re<g ref="char:EOLhyphen"/>main ſtill the ſame.</p>
+            <p>The Small Pox prick like needles, by reaſon of a certain acrimony, and cauſe an it<g ref="char:EOLhyphen"/>ching; the Meaſles doe nei<g ref="char:EOLhyphen"/>ther, becauſe the matter is not ſo acrid and biting.</p>
+            <p>That Feaver which is com<g ref="char:EOLhyphen"/>monly attended by the Small
+<pb n="6" facs="tcp:170250:14"/> Pox and Meaſles, may juſtly be reckoned among malig<g ref="char:EOLhyphen"/>nant and p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtilential Feavers, becauſe it is epidemicall and contagious, and kills very ma<g ref="char:EOLhyphen"/>ny.</p>
+            <div type="part">
+               <head>Of the cauſe of the Small Pox and Meaſles.</head>
+               <p>
+                  <hi>Sennertus</hi> in his <hi>Tomus ſe<g ref="char:EOLhyphen"/>cundus,</hi> 
+                  <note place="margin">De cauſe variolarum &amp; morbil<g ref="char:EOLhyphen"/>lorum.</note> 
+                  <hi>fol. 191.</hi> hath theſe words concerning the cauſe of the Small Pox and Meaſles.</p>
+               <p>
+                  <hi>Cauſam pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mam &amp; con<g ref="char:EOLhyphen"/>tinentem variolarum &amp; mor<g ref="char:EOLhyphen"/>billoru<g ref="char:cmbAbbrStroke">̄</g> referunt in immu<g ref="char:cmbAbbrStroke">̄</g>ditiem <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> primo ortu in ſanguine reli<g ref="char:EOLhyphen"/>ctam, ex ſanguine materno, quem monſtruum vocart quo <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us in utero matr is alitur,</hi> &amp;c.</p>
+               <p>
+                  <hi>Riverius</hi> ſaith thus, <hi>Son<g ref="char:EOLhyphen"/>guinem vero maternum eſſe</hi>
+                  <pb n="7" facs="tcp:170250:14"/> 
+                  <hi>veram cauſam variolarum &amp; morbillorum, inde praecipue col<g ref="char:EOLhyphen"/>ligitur, quod ex bominum mil<g ref="char:EOLhyphen"/>libus vix unum reperire lice it, qui ſemel ſaltem in vita hos affectus non patiatur. At mor<g ref="char:EOLhyphen"/>bus omnibus hominibus co<g ref="char:cmbAbbrStroke">̄</g>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<g ref="char:EOLhyphen"/>nis à cauſa aliqua com ouni neceſſariò dependet; qualia ſunt generationis principia, ſemen nimirum &amp; ſanguis mater<g ref="char:EOLhyphen"/>nus.</hi>
+               </p>
+               <p>But that the Seed cannot be the cauſe, he goes farther, and gives this reaſon.</p>
+               <p>
+                  <hi>At ſemen non poteſt eſſe cauſa variolarum &amp; morbillo<g ref="char:EOLhyphen"/>rum, cum ab to morbi haeredita<g ref="char:EOLhyphen"/>rii &amp; tota vita perdurantes ori<g ref="char:EOLhyphen"/>antur,</hi> &amp;c.</p>
+               <p>The meaning of theſe two learned and judicious Au<g ref="char:EOLhyphen"/>thors, is this, That the mo<g ref="char:EOLhyphen"/>thers blood is the true cauſe
+<pb n="8" facs="tcp:170250:15"/> of the Small Pox and Meaſles, and that it is hence chiefly gathered, becauſe among ma<g ref="char:EOLhyphen"/>ny thouſands of men it is hard to find one, who once in his life hath not had theſe diſea<g ref="char:EOLhyphen"/>ſes. But a diſeaſe common to all men, muſt needs depend upon ſome common cauſe; ſuch as are the principles of Generation, <hi>viz.</hi> the Seed and Mothers Blood.</p>
+               <p>But the Seed cannot be the cauſe of the Small Pox and Meaſles, becauſe from it come hereditary diſeaſes, ſuch as laſt a mans life-time, as ſome Gouts, which are affirmed by the moſt judicious Authors, to be engrafted and here dita<g ref="char:EOLhyphen"/>ry from the parents; yet they doe not deny but that there are ſome Gouts which are adventitious, cauſed by exter<g ref="char:EOLhyphen"/>nall
+<pb n="9" facs="tcp:170250:15"/> cauſes, and errors in Diet. It remains therefore that the Small Pox and Meaſles ſpring from the Mothers Blood, with which the child is nouriſhed in the womb; for therein, be it never ſo pure, ſome impuri<g ref="char:EOLhyphen"/>ties are found, which commu<g ref="char:EOLhyphen"/>nicate their pollution to the parts of the child; and that pollution of the parts doth defile the maſſe of blood; and being provoked by ſome occaſion, doth make the ſame to boyle, by help whereof the blood ferments &amp; is purified, both it &amp; the parts aforeſaid.</p>
+               <p>
+                  <hi>Riverius</hi> ſaith farther, that the <hi>Arabians</hi> do manifeſt this by a cleare example of Wine, which being poured whiles it is new into a muſty or il-qua<g ref="char:EOLhyphen"/>lited veſſel, receives that ill qua<g ref="char:EOLunhyphen"/>lity fro<g ref="char:cmbAbbrStroke">̄</g> the veſſel, but when it
+<pb n="10" facs="tcp:170250:16"/> begins to work and purifie, it cleanſeth both it ſelf and the veſſel.</p>
+               <p>It is not to be wondred at, that the breaking out of the Small Pox and Meaſles, is ſometimes ſo long deferred, as that ſome have them at mans eſtate: for thoſe im<g ref="char:EOLhyphen"/>purities doe not ſubſtanti<g ref="char:EOLhyphen"/>ally remaine in the body, as many imagine; for they would be corrupted by long ſtay, and acquire a moſt grievous pu<g ref="char:EOLhyphen"/>trefaction. But onely an evil quality is by them imprinted upon the parts of the child, which in proceſſe of time in<g ref="char:EOLhyphen"/>fecting ſome part of the hu<g ref="char:EOLhyphen"/>mours, becomes offenſive to Nature; which then rouzing her ſelf, doth drive thoſe infe<g ref="char:EOLhyphen"/>cted portions of the humors into the skin.</p>
+               <pb n="11" facs="tcp:170250:16"/>
+               <p>And although the Small Pox are wont to break forth in the whole body, yet they appeare in greateſt quantity in the face, feet, and hands, which are the Emunctories of the Liver: whence it comes, that ſuch as have hot Livers, have red and rubied Faces, and feel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> intenſe heat in the palmes of their hands and ſoles of their feet; it fol<g ref="char:EOLhyphen"/>lowes, that the Small Pox and Meaſies muſt come out there more than any where elſe.</p>
+               <p>The Expulſion therefore of Small Pox and Meaſles is cauſed by an Ebullition of the the blood; which Ebullition, ſaith <hi>Avicen, Duplex est, una perfectiva, altera ver ò corruptiva; perfectiv a ſeu depu<g ref="char:EOLhyphen"/>rativa ea eſt, in qua partes tan<g ref="char:EOLhyphen"/>tu<g ref="char:cmbAbbrStroke">̄</g>m impuriores &amp; excremen<g ref="char:EOLhyphen"/>titiae
+<pb n="12" facs="tcp:170250:17"/> ſanguinis putreſcunt, &amp; à natura expurgantur, ut tota maſſa pura poſtmodum relin<g ref="char:EOLhyphen"/>quatur.</hi>
+               </p>
+               <p>
+                  <hi>Corruptiva vero eſt, in qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> non ſolum partes ſanguinis ex<g ref="char:EOLhyphen"/>crementitiae, ſed etiam ſanguis ipſe ſincerus computreſcit. <g ref="char:V">Ʋ</g>nde periculoſae &amp; lethales variolae oriuntur,</hi> &amp;c.</p>
+               <p>This Ebullition of the blood is two-ſold, the one Perfe<g ref="char:EOLhyphen"/>ctive, the other Corruptive. The Perfective or Depura<g ref="char:EOLhyphen"/>tive, is that in which onely the impurer and excrementi<g ref="char:EOLhyphen"/>tious parts of the blood are by nature purged forth, that the whole maſſe may after<g ref="char:EOLhyphen"/>ward remain pure.</p>
+               <p>But the Corruptive is, wherein not onely the excre<g ref="char:EOLhyphen"/>mentitious parts of the blood but the ſincere blood it ſelf is
+<pb n="13" facs="tcp:170250:17"/> putrefied, whence ariſe dan<g ref="char:EOLhyphen"/>gerous and deadly Pox. This corruptive Ebullition doth chiefly happen when thoſe diſeaſes are epidemicall, be<g ref="char:EOLhyphen"/>ing occaſion'd by a malignant conſtitution of the aire, by which an Ebullition of the humours, and a malignant pu<g ref="char:EOLhyphen"/>trefaction is cauſed.</p>
+               <p>Pox and Meaſles are rec<g ref="char:EOLhyphen"/>koned among acute diſeaſes, becauſe ordinarily they are terminated within the ſpace of fourteen dayes. Some doe obſerve a double order of times in this diſeaſe, <hi>viz.</hi> the time of ebullition, and the time of cruption; the time of ebullition is commonly terminated in four dayes, ſo that the 1st. day is counted the beginning, the ſecond the aug<g ref="char:EOLhyphen"/>ment, the third the ſtate, and
+<pb n="14" facs="tcp:170250:18"/> the fourth, the declination: for then the feaver and other ſymptoms are wont to re<g ref="char:EOLhyphen"/>mit.</p>
+               <p>But the beginning of the cruption of the Pox is the fourth day it ſelf, the aug<g ref="char:EOLhyphen"/>ment reaches to the ſe<g ref="char:EOLhyphen"/>venth, the ſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e untill the eleventh, the declination unto the fourteenth, at which time the Pox are dried; yet often times they are not dry untill the twentieth day.</p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:170250:18"/>
+               <head>Of the externall cauſes of the Small Pox and Meaſles.</head>
+               <p>The generall and naturall cauſes are two, that is, the <note place="margin">Cauſa pro<g ref="char:EOLhyphen"/>catarctica.</note> infection of corrupt Aire, and a preparation and fitneſſe of corrupt Humors to take that infection.</p>
+               <p>The Aire becomes vitious and burtfull to men for the moſt part, by a three-fold meanes.</p>
+               <p>Firſt, if it be not blowne thorough with wholſome winds.</p>
+               <p>Secondly, if it b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pollu<g ref="char:EOLhyphen"/>ted with the infection of putrid and ſtinking exha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ati<g ref="char:EOLhyphen"/>ons.</p>
+               <p>Thirdly, if by an exceſſe or prepoſterous condition of the firſt qualities, it doth ſo alter
+<pb n="16" facs="tcp:170250:19"/> men, that thereby evill and malignant putrefactions of the humours be ingendered.</p>
+               <p>For thoſe qualities when they are encreaſed above their naturall condition, they are the principles of purtrefa<g ref="char:EOLhyphen"/>ctions.</p>
+            </div>
+            <div type="part">
+               <head>Of the difference of Small Pox and Meaſles.</head>
+               <p>The difference of Small <note place="margin">Differentiae variolarum &amp; mor<g ref="char:EOLhyphen"/>billorum.</note> Pox and Meaſles are taken either from the ſubſtance, in regard of which, ſome are more or leſſe flegmatick; or from the quantity, in which regard they are more or leſſe in number, greater or leſſe, profound or ſuperficiall; or from the quality, in which re<g ref="char:EOLhyphen"/>ſpect ſome are red, others white, yellowiſh, violet-co<g ref="char:EOLhyphen"/>lour'd,
+<pb n="17" facs="tcp:170250:19"/> livid, black, according to the diverſity of humours, of which they are compoun<g ref="char:EOLhyphen"/>ded.</p>
+            </div>
+            <div type="part">
+               <head>Of the ſignes of the Small Pox and Meaſles. <note place="margin">De figuis variolarum &amp; morbil<g ref="char:EOLhyphen"/>lorum. Actiones laeſae.</note>
+               </head>
+               <p>Theſe following ſignes de<g ref="char:EOLhyphen"/>clare them to be at hand.</p>
+               <p>Pain in the head, with pul<g ref="char:EOLhyphen"/>ſation in the forehead and temples great ſleepineſſe, ter<g ref="char:EOLhyphen"/>rors in ſleep, ſometimes ra<g ref="char:EOLhyphen"/>vings, trembling, and convul<g ref="char:EOLhyphen"/>ſions, ſneezings, frequent yawning, hoarſeneſſe, cough, <note place="margin">Qualitares corporis muta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> difficulty in breathing, heat, redneſſe, and ſenſe of pricking over the whole body, paines in their backs, a nauſeous di<g ref="char:EOLhyphen"/>ſpoſition and vomiting, their eyes are fiery and ſwoln, their urine-red and troubled. All
+<pb n="18" facs="tcp:170250:20"/> which are cauſed either by many and thick vapours, ſent up by the boyling of the blood into the head, <hi>Dia<g ref="char:EOLhyphen"/>phragma,</hi> and other parts; or from the nature of the Pox themſelves, now beginning to invade the parts.</p>
+            </div>
+            <div type="part">
+               <head>Of the Prognoſticks.</head>
+               <p>For the Prognoſticks, we <note place="margin">Progneſt:</note> may truly ſay, that the matter whence this effect takes its originall, partakes of ſo me<g ref="char:EOLhyphen"/>lign, peſtilent, and contagious a quality, that not content to mangle and ſpoile the fleſhy parts; it alſo eats and cor<g ref="char:EOLhyphen"/>rupts the bones, like the <hi>lues venerea</hi> (as hath been obſer<g ref="char:EOLhyphen"/>ved by divers, in many killed by the malignity of this di<g ref="char:EOLhyphen"/>ſeaſe, and diſſected) that it
+<pb n="19" facs="tcp:170250:20"/> cauſeth ſuch impreſſion of corruption in the principal parts, as brings the Dropſie, P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hiſick, a Hoarſneſſe, Aſthma, bloody Flux ulcerating the Guts, and at length bringing death; <hi>Nam ſi non ſolum in cute, ſed &amp; in partibus inter<g ref="char:EOLhyphen"/>nis, ventre, intestinis, pulmone erumpant,</hi> &amp;c. <hi>Dan, Sennerti Tom. 2. l. 4. c. 12.</hi> They do not onely moleſt the externall parts, by leaving the impreſ<g ref="char:EOLhyphen"/>ſions and ſcarres of the Pu<g ref="char:EOLhyphen"/>ſtles and Ulcers, rooting themſelves deep in the fleſh, but alſo oft times they take away the faculty of motion, eating aſunder, and weaken<g ref="char:EOLhyphen"/>ing the joynts of the elbow, wriſt, knee, and ankle. More<g ref="char:EOLhyphen"/>over, ſundry have been de<g ref="char:EOLhyphen"/>prived of their ſight by them, others have loſt their hearing,
+<pb n="20" facs="tcp:170250:21"/> and otherſome their ſmelling; a fleſhy exereſcence growing in the paſſages of the noſe and eares.</p>
+               <p>But if any reliques of the diſeaſe remain, and that the whole matter thereof be not expelled by the ſtrength of nature, then ſymptomes af<g ref="char:EOLhyphen"/>terwards ariſe, which ſavour of the malignity of the hu<g ref="char:EOLhyphen"/>mour, yea and equall the harm of the ſymptomes of the <hi>lues venerta.</hi>
+               </p>
+               <p>It is of great moment to fore ſee the Small Pox, but much more to foretell their event, which th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe following prognoſtick ſignes will de<g ref="char:EOLhyphen"/>clare.</p>
+               <p>Thoſe Small Pox are void of danger, which come out ſoon and eaſily, and do quick<g ref="char:EOLhyphen"/>ly ripen, in which the Feaver
+<pb n="21" facs="tcp:170250:21"/> is moderate, without great ſymptomes, which ceaſes af<g ref="char:EOLhyphen"/>ter they are come out, in which the voice is free, and breathing eaſie.</p>
+               <p>Small Pox, which at firſt are red and white, ſoft, di<g ref="char:EOLhyphen"/>ſtinct, few, round, pointed, coming onely in the skin, and not inwardly, are wont to be ſafe.</p>
+               <p>All the ſignes aforeſaid do ſignifie the paucity of the morbifick Matter, its obſequi<g ref="char:EOLhyphen"/>ouſneſs, benignity &amp; ſtrength of nature luſtily expelling.</p>
+               <p>Contrarywiſe, dangerous and deadly Pox are known by a great Feaver, which leſſens not after they are broke forth; for it ſignifies the ma<g ref="char:EOLhyphen"/>lignant &amp; venemous humors are not ſufficiently expelled unto the skinne, but that the
+<pb n="22" facs="tcp:170250:22"/> greateſt part of them remains yet in the veins.</p>
+               <p>Great anxiety and un quiet<g ref="char:EOLhyphen"/>neſſe, which comes from the ſame humours boyling in the veines.</p>
+               <p>Difficulty of breathing, which ſignifies either Puſtles or Impoſthumes in the Lungs, or a Squinanſie, or great de<g ref="char:EOLhyphen"/>cay of ſtrength.</p>
+               <p>Great thirſt, which declares the inward burning; and if with the thirſt, ſhortneſse of breath be increaſed, death is at hand.</p>
+               <p>A Looſeneſſe, or Bloody flux, which ſhewes the malig<g ref="char:EOLhyphen"/>nant humours have their re<g ref="char:EOLhyphen"/>courſe inward, which is a courſe quite contrary to that of Nature, and therefore deadly; ſo that few of thoſe which after the Pox coming
+<pb n="23" facs="tcp:170250:22"/> out, are taken with ſuch a looſeneſs, do eſcape.</p>
+               <p>A bloody Urine is a moſt deadly ſigne, and likewiſe if by ſtoole pure and ſincere blood be voided.</p>
+               <p>Sometimes alſo by the No<g ref="char:EOLhyphen"/>ſtrills, Gums, and other parts of the boby, blood is voided, which are commonly deadly ſignes; for they ſignifie the extreme acrimony and ma<g ref="char:EOLhyphen"/>lignity of the blood.</p>
+               <p>Alſo Pox long a coming out are very bad, which ſigni<g ref="char:EOLhyphen"/>fie the contumacy of the mat<g ref="char:EOLhyphen"/>ter, or the weakneſſe of na<g ref="char:EOLhyphen"/>ture.</p>
+               <p>Many, great, double, and united Pox do ſhew an over<g ref="char:EOLhyphen"/>abundant quantity of Morbi<g ref="char:EOLhyphen"/>fick matter, and are bad; ſo are hard ones, which ſhew the thickneſſe and incoctibili<g ref="char:EOLhyphen"/>ty of the matter.</p>
+               <pb n="24" facs="tcp:170250:23"/>
+               <p>Flat Pox ſhew the weakneſs of the expulſive faculty, and they are worſe, if they have a black ſpot in the middle of them, which argues extraor<g ref="char:EOLhyphen"/>dinary malignity.</p>
+               <p>They are worſt of all, which when they are come forth do preſently vaniſh, and the tu<g ref="char:EOLhyphen"/>mour of the parts falls; for they ſignifie the retirement of the humour inwards, and none of thoſe eſcape who have the Pox on this manner going in againe, but they dye commonly within twenty four hours.</p>
+               <p>They are alſo dangerous, when ſpots, like thoſe of the purple or ſpotted Feaver, are mingled among the Pox, eſpe<g ref="char:EOLhyphen"/>cially if thoſe ſpots be livid or black, for they ſignifie not onely the ſame light putrefa<g ref="char:EOLhyphen"/>ction,
+<pb n="25" facs="tcp:170250:23"/> which is wont to hap<g ref="char:EOLhyphen"/>pen in the Small pox by means of the Ebullition of blood, but alſo that intenſe and profound malignity is peccant; from which grea<g ref="char:EOLhyphen"/>ter danger is threatned to the patient.</p>
+               <p>Dung or urines in this di<g ref="char:EOLhyphen"/>ſeaſe livid or black, do por<g ref="char:EOLhyphen"/>tend great danger; for they ſignifie that Melancholy a<g ref="char:EOLhyphen"/>bounds in the veins, and in<g ref="char:EOLhyphen"/>fects the whole maſſe of blood.</p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:170250:24"/>
+               <head>Of the cure of the Small Pox and Meaſles.</head>
+               <p>
+                  <hi>River.</hi> in his <hi>Prax. med. fol. 156.</hi> hath theſe four Iodi<g ref="char:EOLhyphen"/>cations. <hi>Curatio variolarum &amp; morbillorum quatuor indica<g ref="char:EOLhyphen"/>tionsbus perficitur; quarum pri<g ref="char:EOLhyphen"/>ma virſatur in humorum quantitate peccantium evacua<g ref="char:EOLhyphen"/>tions.</hi>
+               </p>
+               <p>
+                  <hi>Secunda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in motu naturae, ſeu<g ref="char:EOLunhyphen"/>variolarum expulſione adju<g ref="char:EOLhyphen"/>varda.</hi>
+               </p>
+               <p>
+                  <hi>Tertia, in malignae &amp; vene<g ref="char:EOLhyphen"/>natae qualitatis oppugnatione.</hi>
+               </p>
+               <p>
+                  <hi>Quarta dei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>que, inſympto<g ref="char:EOLhyphen"/>mat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m correctione.</hi>
+               </p>
+               <p>
+                  <hi>Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae omnia ut commode per<g ref="char:EOLhyphen"/>fic antur, primum idonea victûs ratio inſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nenda eſt</hi> &amp;c.</p>
+               <p>That is, That the cure of the Small pox and Meaſles
+<pb n="27" facs="tcp:170250:24"/> is performed in the ſatisfecti<g ref="char:EOLhyphen"/>on of four Indications; where<g ref="char:EOLhyphen"/>of the firſt conſiſts in the evacuation of the peccant hu<g ref="char:EOLhyphen"/>mours.</p>
+               <p>The ſecond, in aſſiſting the motion of nature, or helping to expell the pox.</p>
+               <p>The third, in the oppoſition of the malignant and vene<g ref="char:EOLhyphen"/>mous quality.</p>
+               <p>The fourth, in Correction of Symptoms.</p>
+               <p>All which that they may be conveniently effected, firſt a convenient diet muſt be ap<g ref="char:EOLhyphen"/>pointed.</p>
+               <p>As for point of nouriſh<g ref="char:EOLhyphen"/>men, the Ancients were ſo ſe<g ref="char:EOLhyphen"/>verely diligent, as to place the greateſt part of the cure in or<g ref="char:EOLhyphen"/>derering the diet.</p>
+               <p>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cauſe, ſay they, there are no kinds of ſickneſſes that ſo
+<pb n="28" facs="tcp:170250:25"/> weakens the ſtrength, as con<g ref="char:EOLhyphen"/>tagious diſeaſes, it is alwayes neceſſary, but yet ſparingly and often to feed the patient, ſtill having reſpect unto his cuſtome, age, the region, and the time; for through empti<g ref="char:EOLhyphen"/>neſſe there is great danger, left that the venemous matter that is driven out to the fu<g ref="char:EOLhyphen"/>perficiall parts of the body, ſhould be called back into the inward parts by an hungry ſtomack, and the ſtomack it ſelf ſhould be filled with cho<g ref="char:EOLhyphen"/>lerick, hot, thin, and ſharp exerementall humours, where<g ref="char:EOLhyphen"/>of cometh biting of the ſto<g ref="char:EOLhyphen"/>mack, and gripings in the guts.</p>
+               <p>Sweet, groſte, moiſt, and clammy meats, and thoſe which are of ſubtil parts, are to be avoided; for the ſweet
+<pb n="49" facs="tcp:170250:25"/> do ſoon enſlame, the moift will putrifie, the groſſe and clammy obſtruct, and there<g ref="char:EOLhyphen"/>fore eng<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nder putrefact<g ref="char:EOLhyphen"/>ions.</p>
+               <p>Therefore let this be their <note place="margin">Diaeta.</note> order of diet; let their bread be of Wheat or Barley, well wrought, neither too new, nor too ſtale; let them be fed with ſuch meat as may be eaſily concocted and digeſted, and may engender laudable juice, and very little excremental, as are the fleſh of Lambs, Kids, Partridges, Thruſhes, Larks, Pheaſants, and ſuch like, a<g ref="char:EOLhyphen"/>voyding Water-fowls, Let the fleſh be moiſtned in the juice of garden and wild Sor<g ref="char:EOLhyphen"/>rell: for ſower things are very wholſome in this kind of di<g ref="char:EOLhyphen"/>ſeaſe, for they do ſtir up the appetite, reſiſt the venemous
+<pb n="50" facs="tcp:170250:26"/> quality and putrefaction of the humours, reſtrain the heat of the Feaver, and prohibite the corruption of the meats in the ſtomack. But thoſe that have a more weak ſtomack, and are ſubject to the cough, and diſeaſes of the lungs, muſt not uſe theſe, unleſſe they be mixed with Sugar and Cinna<g ref="char:EOLhyphen"/>mon.</p>
+               <p>If the Patient at any time be fed with ſodden meats, let the broths be made with Lettuce, Borage, Sorrel, and Marigolds, the Coaling ſeedes, French barley, and Oatmeale, with a little Saffron, for Saf<g ref="char:EOLhyphen"/>fron doth engender many ſpirits, and reſiſteth poyſon, To theſe, if need require, the opening roots may be added to avoid obſtructions.</p>
+               <p>Fiſhes are altogether to be
+<pb facs="tcp:170250:26"/> avoided, becauſe they ſoone corrupt in the ſtomack; but if the Patient be delighted with them, thoſe that live in pure &amp; ſandy water, &amp; about rocks &amp; ſtones, as are Trouts, Pearches, Gudgeons, Pikes, and Craviſes boyled in milk.</p>
+               <p>Eggs potched, and eaten with the juice of Sorrell are very good.</p>
+               <p>But after the ſpots appeare, then the chief diet muſt be Ponadoes, Almond creames, gellies, eullaſſes, and ſuch like, untill the Feaver be paſt.</p>
+               <p>For Drink, a decoction of Barley or Harts horn is profi<g ref="char:EOLhyphen"/>tably uſed, in the begining of the diſeaſe eſpecially, and when the Feaver is vehement.</p>
+               <p>But if the Feaver be not very violent a decoction of Barly, Figs, &amp; Harts horn, wil be very profitable.</p>
+               <pb n="52" facs="tcp:170250:27"/>
+               <p>A decoction of French prunes is very pleaſing to the taſt?</p>
+               <p>Alſo the ſyrup of dried Red Roſes, with Barley-water, or ſmall Beer.</p>
+               <p>
+                  <hi>Foreſlus</hi> doth much com<g ref="char:EOLhyphen"/>mend a decoction of Barley and figs to be very profitable, to drive the humours to the skin.</p>
+               <p>In the whole courſe of the diſeaſe ſleep ought to be mo<g ref="char:EOLhyphen"/>derate, for too ſound ſleep drawes back the matter to the center.</p>
+               <p>Now that the aforeſaid In<g ref="char:EOLhyphen"/>dications may be fulfiled, the cure muſt be begun by blood<g ref="char:EOLhyphen"/>letting; but we muſt conſider the Small pox <hi>ante eruptionem</hi> before any ſpots appeare, and <hi>poſt eruptionem,</hi> after the ſpots appeare; before any ſpots ap<g ref="char:EOLhyphen"/>peare,
+<pb n="53" facs="tcp:170250:27"/> eſpecially in a full bo<g ref="char:EOLhyphen"/>dy, Phlebotomy may ſafely be done.</p>
+               <p>
+                  <hi>Incipiente morbo, ubi adiſt ſanguinis redundantia, ſi vires &amp; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as permittant, nil melius putatur, quam à venae ſectione initium facere:</hi> In the be<g ref="char:EOLhyphen"/>ginning of the Small pox, where blood doth much a<g ref="char:EOLhyphen"/>bound, if ſtrength and age p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmit, no remedy ſo ſafe as letting blood.</p>
+               <p>
+                  <hi>Hollerius</hi> ſaith thus, <hi>Primo</hi> 
+                  <note place="margin">Holler. de<g ref="char:EOLunhyphen"/>morbis in<g ref="char:EOLhyphen"/>ternis.</note> 
+                  <hi>aut ſecundo die ſanguis detra<g ref="char:EOLhyphen"/>hendus eſt;</hi> on the firſt or ſe<g ref="char:EOLhyphen"/>cond day blood is to drawne away; and his reaſon is this, <hi>Sic enim melius transpirat corpus, putredinis cauſa inter<g ref="char:EOLhyphen"/>cipitur, levatur natura, &amp; ſi quid vitii reliquum eſt, celerius in ſuperficiem corporis repur<g ref="char:EOLhyphen"/>gatur,</hi> &amp;c. For by letting
+<pb n="54" facs="tcp:170250:28"/> blood, reſpiration is much helped, and the cauſe of pu<g ref="char:EOLhyphen"/>trefaction is intercepted, na<g ref="char:EOLhyphen"/>ture is eaſed, and the corrupt humours are more ſpeedily ſent from the center to the circumference.</p>
+               <p>
+                  <hi>Fuchſius</hi> hath theſe words, <hi>Si</hi> 
+                  <note place="margin">Fuchſius.</note> 
+                  <hi>adulti corripiuntur exanthe<g ref="char:EOLhyphen"/>matis, initio curationis, ſi corpus plenu<g ref="char:cmbAbbrStroke">̄</g> fuerit, ſanguis mittendus; idque faciendu<g ref="char:cmbAbbrStroke">̄</g> antequam appa<g ref="char:EOLhyphen"/>reant exanthemata;</hi> If adult or grown perſons be taken with the Small pox, in the be<g ref="char:EOLhyphen"/>ginning, if they have full bo<g ref="char:EOLhyphen"/>dyes, blood is to be taken away; but let it be done be<g ref="char:EOLhyphen"/>fore the ſpots appeare: and of this opinion are moſt of the learned Phyſitians.</p>
+               <p>
+                  <hi>In ebullitione were perfecti<g ref="char:EOLhyphen"/>va ſeu depurativa, ſanguis de<g ref="char:EOLhyphen"/>trahendus non eſt; in corrupti<g ref="char:EOLhyphen"/>va
+<pb n="55" facs="tcp:170250:28"/> verò venae ſectio maximè neciſſaria,</hi> &amp;c. When there is an ebullition perfective meerely and depurative, blood is not to be taken a<g ref="char:EOLhyphen"/>way; but in a corruptive, blood-letting is very neceſſa<g ref="char:EOLhyphen"/>ry: ſo neceſſary is blood-let<g ref="char:EOLhyphen"/>ting in dangerous Pox, in which the corruptive ebulliti<g ref="char:EOLhyphen"/>on is wont to happen, that the tender age of infants muſt not hinder it. <hi>Amatus Luci<g ref="char:EOLhyphen"/>tanus</hi> 
+                  <note place="margin">Venae ſectio in infanti<g ref="char:EOLhyphen"/>bus.</note> let a child blood of five years old that had the Small pox, and took away four oun<g ref="char:EOLhyphen"/>ces of blood, who ſoon reco<g ref="char:EOLhyphen"/>vered.</p>
+               <p>And he let another blood <note place="margin">Sennertus tomus ſe<g ref="char:EOLhyphen"/>cundus, 196.</note> of ſeven yeares old, and took away ſix ounces of blood. And <hi>Avenzoar</hi> let his ſon blood at three years old, who oon after recovered.</p>
+               <pb n="56" facs="tcp:170250:29"/>
+               <p>Some give counſell to let blood though the ſpots ap<g ref="char:EOLhyphen"/>pear in full bodies, where the Feaver is violent.</p>
+               <p>Good tendance is a maine and principall help in this di<g ref="char:EOLhyphen"/>ſeaſe, for experience doth manifeſt, that if they be kept too hot or too cold, or take cold beer or broth, how dan<g ref="char:EOLhyphen"/>gerous it is.</p>
+               <p>You muſt neither purge nor draw blood, the diſeaſe en<g ref="char:EOLhyphen"/>creaſing or being at the hight, unleſſe there be a great pleni<g ref="char:EOLhyphen"/>tude, or elſe the diſeaſe com<g ref="char:EOLhyphen"/>plicate with other, as with a Pluriſie or Squinancy, which require it; for purging cauſes a motion from the circumſe. rence to the center; and to whomſoever having pox, a looſeneſſe happening, the pox commonly ſtrike in, and the party dies.</p>
+               <pb n="57" facs="tcp:170250:29"/>
+               <p>But when the height of the diſeaſe is over, and in the de<g ref="char:EOLhyphen"/>elination thereof, you may with Caſſia, Manna, Tama<g ref="char:EOLhyphen"/>rinds, and ſyrup of Roſes, or ſome ſtronger medicine, eva<g ref="char:EOLhyphen"/>cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te the reliques of the di<g ref="char:EOLhyphen"/>ſeaſe.</p>
+               <p>But if the belly be hard and bound, it may gently be re<g ref="char:EOLhyphen"/>moved, <note place="margin">Purgatio;</note> but not provoked; and that by a ſuppoſitory of Honey alone without Salt, or with a Clyſter of Milk, or a decoction of French barley, Raiſons and Licoris, with Su<g ref="char:EOLhyphen"/>gar and yolks of Eggs.</p>
+               <p>The next Indication is in the aſſiſting the motion of nature, or helping to expel the Pox, which muſt be helped forward with Diaphoreticks and Alexipharmicks; that is, with ſuch things as cauſe
+<pb n="58" facs="tcp:170250:30"/> ſweat, and reſiſt the venome of the diſeaſe.</p>
+               <p>When you perceive the pox coming out either on the Pa<g ref="char:EOLhyphen"/>tients breaſt or face, make this Poſſet; Take of Ale or Beer, which the Patient likes beſt, make a poſſet with new Milk and take off the curd, and boyle in a pint of the poſſer<g ref="char:EOLhyphen"/>drink, of raſp'd Harts horne and Marigold flowers, of each one ſpoonfull, ſix or eight leaves of Sorrell, a little Li<g ref="char:EOLhyphen"/>coriſh ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ced, a few Figs cut in pieces; take this blood<g ref="char:EOLhyphen"/>warm, and drink no other drink for two or three dayes, untill they come out.</p>
+               <p>Some commend this follow<g ref="char:EOLhyphen"/>ing <note place="margin">A Sudori<g ref="char:EOLhyphen"/>ſick deco<g ref="char:EOLhyphen"/>ction.</note> decoction; of Figs, husked Lentils, Citron ſeeds, the ſeeds of Fennel, Parſley, Smal<g ref="char:EOLhyphen"/>lage, roots of Dog-graſſe,
+<pb n="59" facs="tcp:170250:30"/> Raiſons, and Dates; for ſuch a decoction certainly if it have power to cauſe ſweat, hath alſo a faculty to ſend forth unto the skin the morbifick humour.</p>
+               <p>
+                  <hi>Riverius</hi> ſaith this following Medicine is much commen<g ref="char:EOLhyphen"/>ded by <hi>Rhaſis, Avicen,</hi> and the <hi>Arabian Phyſitians,</hi> and much uſed by our later Phyſitians to drive our the Pox.</p>
+               <p>Take fat Figs ſeven ounces, L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntills ſhaled three dramms, Lack two drammes and a half, Gum, Tragacanth, and Fennell ſeed, of each two drammes, Saffron fifteene grains, Raiſous five drammes; boyle all in a pint and half of Fountain-water to the third part, let the Patient drink thereof. The Saffron opens and corroborates, the Rai<g ref="char:EOLhyphen"/>ſons
+<pb n="60" facs="tcp:170250:31"/> do ſtrengthen the Liver: and Tragaganth, although it do incraſſat and aſtringe, that is thicken and bind, yet it is therefore mingled with the reſt, that it may prohibit the over-great ebullition of the blood.</p>
+               <p>But if the malignity be very great, you muſt chiefly uſe Antidotes: The beſt that I know I here give you, and I believe there is not a better.</p>
+               <p>Take of orientall Pearles, of Crabs eyes, of red Corall, of Harts horn, of white Am<g ref="char:EOLhyphen"/>ber, of the roots of Scorzo<g ref="char:EOLhyphen"/>nera, by ſome call'd <hi>Viperaria,</hi> or Vipers graſſe, of the roots of <hi>Contra-yerna,</hi> of each a like quantity, of the black tips of Crabs clawes, being wiped very clean, ſo much as of all the reſt: Beat all in a cleane
+<pb n="61" facs="tcp:170250:31"/> morter, into very fine pouder, and ſearch them through a fine Lawn ſearce, make all theſe into a maſs with jelly of Harts horn, wherein you muſt infuſe ſome ſtore of Saffron; make it like paſt with conti<g ref="char:EOLhyphen"/>nuall beating of it, then make it into balk, rowling them ſmooth in the palmes of your hands, and when they are dry keep them in a box wrapped up ſeverall in papers for your uſe; if they be kept dry it is the better, they will laſt long without decaying; when you have uſe for this powder, take one of the balls cut, or ſcrape ſome of it, and after make it very fine by bruſing it with a knife, or otherwiſe; it is to be taken in a ſpoonful of good diſtilled water, as of Carduus, Scabious, but the beſt
+<pb n="62" facs="tcp:170250:32"/> is Marigold-water, take a ſpoonfull without powder af<g ref="char:EOLhyphen"/>ter it, to waſh it down: you may give of this powder at one time twelve or eighteene graines, and in the higheſt extremity twenty grains, and that every tweive hours; you may give to a child eight graines, or as you ſhall ſee cauſe.</p>
+               <p>This powder is moſt excel<g ref="char:EOLhyphen"/>lent againſt all infectious di<g ref="char:EOLhyphen"/>ſeaſes, for the Plague, being taken at firſt being infected; it is good alſo for Agues and Feavers, for paines of the heart, for trembling of the heart, it doth reſtore thoſe that be falling into Conſum<g ref="char:EOLhyphen"/>ptions, adding a little ſyrup of Gilliflowers, it driveth forth the Small pox and Meaſles; given in a little conſerve of
+<pb n="63" facs="tcp:170250:32"/> red Roſes, it ſtayeth Fluxes; and being taken in time, it preſerveth from all infecti<g ref="char:EOLhyphen"/>ons; it provoketh neither ſtoole nor vomit, nor giveth offence to the taſt, ſmell, or ſtomack; it worketh inſenſi<g ref="char:EOLhyphen"/>bly and without violence to nature, and is of ſuch vertue, that neith<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Unicorn's horn nor <hi>Beazar</hi> ſtone can equal it, though taken in a double quantity: I have uſed of it this twenty yeares, and have al<g ref="char:EOLhyphen"/>wayes a good quantity of it by me: I wiſh all that are able, to have ſome of it in a readineſſe by them. I re<g ref="char:EOLhyphen"/>member my Father did uſe to call it his <hi>Antidotus Contra<g ref="char:EOLhyphen"/>yerva,</hi> his <hi>Antidote againſt poyſon. Gerhard</hi> ſaith, the pow<g ref="char:EOLhyphen"/>der of the root <hi>Contra-yerva</hi> taken in Whitewine, is a moſt
+<pb n="64" facs="tcp:170250:33"/> preſent remedy againſt poy<g ref="char:EOLhyphen"/>ſon, <note place="margin">Monardus.</note> of what nature ſoever it be (onely ſublimate excepted, whoſe malignity is onely ex<g ref="char:EOLhyphen"/>tinguiſhed by drinking of Milk.)</p>
+               <p>The root <hi>Scorzonera</hi> by moſt called <hi>Viperaria,</hi> or <hi>Viperina,</hi> or <hi>Serpentaria,</hi> becauſe it is of force and efficacy againſt poyſons of Vipers and Ser<g ref="char:EOLhyphen"/>pents; the vertues of this root are many.</p>
+               <p n="1">1. It is moſt excellent againſt the infect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons of the Plague, and all poyſons of venemous Beaſts, being made into fine powder and taken in Treakle<g ref="char:EOLhyphen"/>water.</p>
+               <p n="2">2. It is good in all peſtilent Diſeaſes, taken in poſſet<g ref="char:EOLhyphen"/>drink with Saffron.</p>
+               <p n="3">3. It helpeth the infirmities of the Heart, and ſuch as uſe
+<pb n="65" facs="tcp:170250:33"/> to ſwoun, given in Sack and Borage-water.</p>
+               <p n="4">4. It doth help Convulſi<g ref="char:EOLhyphen"/>ons in children, given in Sage or Lavender-water.</p>
+               <p n="5">5. It doth cure the biting of a mad Dog, drunk in Roſe<g ref="char:EOLhyphen"/>vinegar.</p>
+               <p n="6">6. It cauſeth a ſpeedy Deli<g ref="char:EOLhyphen"/>very, given in burnt Wine with a few Cloves and a little Mace.</p>
+               <p n="7">7. It is a good Cordiall in all fits of the Mother, given in Rue, Sage, or Lavender<g ref="char:EOLhyphen"/>water.</p>
+               <p n="8">8. It cureth alſo them that have the Falling-ſickneſſe, and ſuch as are troubled with gid<g ref="char:EOLhyphen"/>dineſſe in the head, taken in Conſerve of Roſemary flow<g ref="char:EOLhyphen"/>ers.</p>
+               <p>The root condited with Sugar, as are the roots of
+<pb n="66" facs="tcp:170250:34"/> Eringus, and ſuch like, work the like effects, and ſo doth the roots of <hi>Contra-yerva.</hi>
+               </p>
+               <p>The Confection of <hi>Hyacinth</hi> 
+                  <note place="margin">Confectio de Hyacin<g ref="char:EOLhyphen"/>tho.</note> is a great Cordiall, exceeding good in acute Feavers, and contagious Diſeaſes; it doth much ſtrengthen and cheriſh the heart, half a dramme is given at a time.</p>
+               <p>There is a Treacle-water which is exceeding good to expell the Pox and Meaſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, it is much uſed in Feavers, eſpecially peſtilentiall; it ſtrengtheneth the heart and vitals, it is an admirable Counter-poyſon; the Com<g ref="char:EOLhyphen"/>poſition is as followeth.</p>
+               <p>Take of the juice of greene Walnuts four pound, the juice of green Rue three pound, juice of <hi>Carduus Benedictus,</hi> 
+                  <note place="margin">Aqua The<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>calis.</note> Marigolds, Bawm, of each
+<pb n="67" facs="tcp:170250:34"/> two pound, the roots of Pe<g ref="char:EOLhyphen"/>taſites, or Butter-burres, freſh and green, a pound and a half, the roots of Burres one pound, roots of Angelica and Maſter-wort, green, of each ſixe ounces, Scordion foure handfulls, old Venice-treacle and Mithridate of each eight ounces, Canary wine twelve pints, White-wite Vinegar ſix pints, juice of Lemmons a quart; digeſt them two daies in a bath, let the veſſell be well ſtopped, then diſtill it in ſend for your use.</p>
+               <p>
+                  <hi>Gaſcons</hi> powder made with <hi>Orientall Beazor,</hi> is very good againſt all malignant and pe<g ref="char:EOLhyphen"/>ſtilent Diſeaſes, Small pox, Meaſles, Plague, malignant or ſcarlet Feavers; the Doſe is ten or twelve graines in Car<g ref="char:EOLhyphen"/>duus or Dragon-water.</p>
+               <pb n="68" facs="tcp:170250:35"/>
+               <p>Conſerve of red Roſes and Mithridate in Marigold-wa<g ref="char:EOLhyphen"/>ter I have found very good; and recovered many with it, eſpecially when there has been great Fluxes; for the Conſerve doth give an effe<g ref="char:EOLhyphen"/>ctuall binding and certaine ſtrengthening quality; and the Mithridate doth expell and keep out the Pox.</p>
+               <p>
+                  <hi>East India Bezoar</hi> pow<g ref="char:EOLhyphen"/>dered ſmall in poſſet drink, is very effectuall; the Doſe is from three to eight grains, according to the ſtrength and age of the Patient.</p>
+               <p>
+                  <hi>Sennertus</hi> commends Be<g ref="char:EOLhyphen"/>zoar, <note place="margin">Pulvis ex. pulſivus.</note> with the ſolution of Pearles; half a ſcruple in the waters of Sorrell, Scabious, Carduus, and Marigold-flow<g ref="char:EOLhyphen"/>ers.</p>
+               <p>Alſo theſe following Poti<g ref="char:EOLhyphen"/>tions
+<pb n="69" facs="tcp:170250:35"/> are much commended by the ſame Author.</p>
+               <p>Take Figs ſeven drammes, Lentills ſhalled three drams, Gum traganth and Fennell<g ref="char:EOLhyphen"/>ſeed, of each two drammes; boyle all in a pint and half of Fountain-water, to the third part, give the Patient drink thereof.</p>
+               <p>Or this: Lentills ſhalled <note place="margin">Potio ad Morbillos.</note> four ounces, Figs ſliced ten, Raiſons of the Sun ſtoned 2 ounces, Fennel ſeeds bruiſed three drammes, Saffron one ſcruple, Gum-lacc one dram and a half; boyle all in three pints of water to a pint, give of the ſtrained liquor four or five ounces for a Doſe to drink.</p>
+               <p>Or this: Take fat Figs, in number thirty, Lentills three handfuls, Turnep ſeed ſeven
+<pb n="70" facs="tcp:170250:36"/> drammes, Barley cleanſed from the husks ten ounces, Fennell ſeed ten drammes; cut and bruiſe all, and put into five pints of water, let it ſtand and infuſe a day on a very gentle fire, cloſe cove<g ref="char:EOLhyphen"/>red, afterwards diſtill it for your uſe.</p>
+               <p>Or this, Take Turnep<g ref="char:EOLhyphen"/>ſeed one dramme, Annis, and Fennel ſeeds each two drams, cleanſed Barley and Lentills each half an ounce, foure Figgs ſliced; boyle all in Carduus water in a cloſe-co<g ref="char:EOLhyphen"/>vered veſſel; give of the ſtrai<g ref="char:EOLhyphen"/>ned liquor two or three ſpoonfulls at a time.</p>
+               <p>I have often given Mithri<g ref="char:EOLhyphen"/>date half a dramme at a time, with ſyrup of Gilliflowers in Carduus or Marigold-water; and ſo I have Venice-treacle,
+<pb n="71" facs="tcp:170250:36"/> London-treacle, and Diaſcor<g ref="char:EOLhyphen"/>dium, in like manner, with good ſucceſſe.</p>
+               <p>For <hi>Mithridate</hi> is an ex<g ref="char:EOLhyphen"/>cellent Antidote, and good againſt peſtilent and conta<g ref="char:EOLhyphen"/>gious Diſeaſes, it is good againſt Poyſon, and ſuch as have done themſelves wrong by taking filthy Medicines; it provokes Sweat, and hel<g ref="char:EOLhyphen"/>peth weakneſſe of the Limbs, and Diſeaſes comming of cold.</p>
+               <p>
+                  <hi>Venice-treacle</hi> is a good re<g ref="char:EOLhyphen"/>medy in peſtilentiall Feavers; it reſiſts Poyſon, and the bitings of venemous Beaſts; it is good againſt the Falling<g ref="char:EOLhyphen"/>ſickneſſe, Apoplexies, the Cholick, and Illiack paſſion, &amp;c.</p>
+               <p>
+                  <hi>London-treacle</hi> is a good
+<pb n="72" facs="tcp:170250:37"/> Antidote in peſtilential times; it reſiſts Poyſon, ſtrengthens cold Stomacks, helps dige<g ref="char:EOLhyphen"/>ſtion and crudities of the ſto<g ref="char:EOLhyphen"/>mack.</p>
+               <p>
+                  <hi>Diaſcordium</hi> mightily ſtreng<g ref="char:EOLhyphen"/>theneth the Heart and Sto<g ref="char:EOLhyphen"/>mack; it provokes Sleep, and is uſed in Feavers for that purpoſe.</p>
+            </div>
+            <div type="part">
+               <pb n="73" facs="tcp:170250:37"/>
+               <head>What parts muſt be armed againſt, aad preſerved from the Pox.</head>
+               <p>The Eyes, Noſe, Throat, Lungs &amp; inward parts, ought to be kept freer from the eiu<g ref="char:EOLhyphen"/>ption of Puſtles than the o<g ref="char:EOLhyphen"/>ther parts.</p>
+               <p>You muſt defend the eyes when you firſt begin to ſu<g ref="char:EOLhyphen"/>ſpect the diſeaſe, with the eye-lids alſo, moiſtening them with Roſe-water, a little Camphire and Saffron, with two or three drops of Vine<g ref="char:EOLhyphen"/>gar.</p>
+               <p>Or with Plantine and Roſe<g ref="char:EOLhyphen"/>waters, in which a little Saf<g ref="char:EOLhyphen"/>fron is diſſolved.</p>
+               <p>Alſo Womans milk mixed with Roſe-water, &amp; often re<g ref="char:EOLhyphen"/>newed.</p>
+               <pb n="74" facs="tcp:170250:38"/>
+               <p>But if the eyes be much ſwolne and red, you muſt ſtrengthen the ſight with Fennell or Eyebright-water.</p>
+               <p>White Roſe and Eye bright<g ref="char:EOLhyphen"/>waters, with a little Cam<g ref="char:EOLhyphen"/>phire, and with a feather dreſſe them often in a day.</p>
+               <p>To preſerve the Face, that the Pox leave not behinde them pits and ſcarres, which doth often deform the coun<g ref="char:EOLhyphen"/>tenance: when they are ripe, and are high and white in the middle, then mingle Sper<g ref="char:EOLhyphen"/>maceti and oyle of ſweet Almonds together to an oyntment, and with a feather anoynt the face therewith, being a little warmed: this will cauſe them to ſcale.</p>
+               <p>Oyle of ſweet Almonds new drawn, without fire, is
+<pb n="75" facs="tcp:170250:38"/> excellent for the ſame pur<g ref="char:EOLhyphen"/>poſe; and ſo is oyl of Nute new drawn without fire, and mixed well with a like quan<g ref="char:EOLhyphen"/>tity of Roſe-water, till they come to the form of a lini<g ref="char:EOLhyphen"/>ment, then anoynt with a fea<g ref="char:EOLhyphen"/>ther twice a day.</p>
+               <p>This following Liniment is much uſed.</p>
+               <p>Take of fat Bacon one pound, cut it in thin ſlices, and hang it in a ſtring before the fire, that it may melt, and let it drop it into half a pint of Roſe and Plantine-water, and when it is all melted, let it roole, and then bear it out of the water with a cleane Spatula, then waſh it in three <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> four ſeverall waters more<g ref="char:punc">▪</g> then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out the water, and mix the fat with a dramme
+<pb n="76" facs="tcp:170250:39"/> of Spermacete, and anoynt the face with a feather.</p>
+               <p>Oyle of bitter Almonds two ounces, with Spermace<g ref="char:EOLhyphen"/>te half an ounce, is very good to anoynt the face after the pox are dryed, to cauſe them to fall off. without leaving any marks,</p>
+               <p>The oyle of yolks of Eggs is very good to cleare the skin, and reſtore hair, and to cure the Malign ulcers, which many times happens after the Pox: it is thus made.</p>
+               <p>Take of new-laid Egges one hundred, boyle them un<g ref="char:EOLhyphen"/>till they be hard, and take out the yolke and cut them in pieces, and put them into a fryingpan untill they turne reddiſh, and yeild a faity moi<g ref="char:EOLhyphen"/>ſture, then take them and put
+<pb n="77" facs="tcp:170250:39"/> them hot into a hair bag, and preſſe out the oyle.</p>
+               <p>It is the practiſe of many that when the Pox be ripe, to bore them thorough with a golden or ſilver needle, leſt the quittor tarrying long in them, ſhould leave holes in the part: But experience has taught, that, the Pox being bo<g ref="char:EOLhyphen"/>red are longer in healing, and doth longer hold their cruft, becauſe of the weakneſſe of naturall heat, cauſed in the part by boring whereby more deformed ſcarres are left be<g ref="char:EOLhyphen"/>hind.</p>
+               <p>The internall parts may be preſerved with a decoction of Lentils and Tragaganth, de<g ref="char:EOLhyphen"/>ſcribed before.</p>
+               <p>Such Pox as ariſe in the <note place="margin">Os &amp; faxe.</note> mouth, palate, and throat,
+<pb n="78" facs="tcp:170250:40"/> with hourſeneſſe and difficul<g ref="char:EOLhyphen"/>ty of ſwallowing, may be hel<g ref="char:EOLhyphen"/>ped by Gargariſmes made with Barley-water, Plantine<g ref="char:EOLhyphen"/>water, with ſome ſyrup of red Roſes and Mulberries diſſolved therein.</p>
+               <p>The Lungs are preſerved by <note place="margin">Pulmo.</note> ſyrup of Jujubes, deyed Roſes, white Poppies, Myrtils, Pom<g ref="char:EOLhyphen"/>granates, Water-lillies and the like.</p>
+               <p>Sometimes tedious itchings ſolicite the Patient to ſcratch, eſpecially in the palmes of the hands and ſoles of the feet, becauſe the thickneſs of the skin in thoſe parts hinders the eruption of the Pox, which you ſhall help, if you cauſe thoſe parts to be fomented pretty hot with a decoction of Marſhmallowes, Barley, &amp;
+<pb n="79" facs="tcp:170250:40"/> Lupines; or with a decoction of Pellitory of the Wall one handfull, flowers of Cammo<g ref="char:EOLhyphen"/>mel, and Melilote, of each half a pugill; boyle them in a pint of Scabious-water, with this liquor hot, often let the itching pox be moiſtned.</p>
+               <p>The Excoriations and Ul<g ref="char:EOLhyphen"/>cers, which ariſe from deep and malignant Pox, are to be cured with <hi>
+                     <g ref="char:V">Ʋ</g>nguentum Al<g ref="char:EOLhyphen"/>bum</hi> well camphorated.</p>
+               <p>When the Feaver is paſt, and the Pox begin to fall, let them eat Bread and Butter, or a potched Egge; let their Beer be warmed with a Toſte, and ſweetened with a little Sugar, and when they have drunk, let them eat the Toſte to cleanſe their mouth &amp; throat.</p>
+               <p>As for ſucking Children,
+<pb n="80" facs="tcp:170250:41"/> ſuch things ſhall be given to the Nurſe, as may infringe and overcome the ſtrength of the malignity; ſhe ſhall take broths with Purſlain, Lettuce, Sorrell, Succory, Borage, and French Barley.</p>
+               <p>She ſhall ſhun all ſalt, ſpiced; and baked meats; ſhe ſhall drink decoctions of Licoriſh, Raiſons, and Sorrel roots.</p>
+               <p>She ſhall alſo take purging Medicines, as if ſhe were ſick of the ſame diſeaſe, that ſo her milk may become medi<g ref="char:EOLhyphen"/>cinable.</p>
+            </div>
+            <div type="part">
+               <pb n="81" facs="tcp:170250:41"/>
+               <head>Cautions in Aire and Diet, to prevent the Small Pox and Meaſles.</head>
+               <p>No prevention ſeemed more certain to the Anoients, than moſt ſpeedily to remove into places far diſtant from the infected place and to be ſlow in their return thither again.</p>
+               <p>But thoſe, who by reaſon of their employments, cannot change their habitation, muſt principally have care of two things.</p>
+               <p>The firſt is that they ſtreng<g ref="char:EOLhyphen"/>then their bodies, &amp; the prin<g ref="char:EOLhyphen"/>cipall part thereof againſt the daily imminent invaſions of the peſtiferous and venerate aire.</p>
+               <p>The ſecond is, that they
+<pb n="82" facs="tcp:170250:42"/> amend and purge the corru<g ref="char:EOLhyphen"/>ptions of the venenate ma<g ref="char:EOLhyphen"/>lignity, by ſmells and per<g ref="char:EOLhyphen"/>fumes reſiſting the poyſon thereof.</p>
+               <p>Let moderate exerciſe pre<g ref="char:EOLhyphen"/>cede your Meales.</p>
+               <p>Let the belly have due eva<g ref="char:EOLhyphen"/>cuation either by Nature or Art.</p>
+               <p>Let the heart, the ſeat of life, and the reſt of the bowels be ſtrengthened with Cordi<g ref="char:EOLhyphen"/>alls and Antidotes.</p>
+               <p>Make choice of a pure Air, and far remote from ſtinking places; for a cloudy or mifty air, &amp; ſuch as is infected with groſſe and ſtinking vapours, duls the ſpirits, dejects the appetite, makes the body faint and ill-coloured, op<g ref="char:EOLhyphen"/>preſſeth the heart, and is
+<pb n="83" facs="tcp:170250:42"/> the breeder of many diſeaſes.</p>
+               <p>Kindle a cleare fire in all the lodging chambers of the houſe, and perfume the whole houſe with Aromatick things, as Fankinſence, Myrrhe, Ben<g ref="char:EOLhyphen"/>zoin, Landanum, Styrax, La<g ref="char:EOLhyphen"/>vender, Roſemary, Marjoram, Cloves, pieces of Firre, Juni<g ref="char:EOLhyphen"/>per, and let your clothes be aired in the ſame.</p>
+               <p>Exceſſe in diet is to be ſhunned, for thence proceeds obſtruction, and preparation of the body to putrefaction.</p>
+               <p>Women muſt be very care<g ref="char:EOLhyphen"/>full that they have their cour<g ref="char:EOLhyphen"/>ſes duly, for ſtopping beſides the cuſtome, they eaſily ac<g ref="char:EOLhyphen"/>quire corruption, and draw by contagion the reſt of the hu<g ref="char:EOLhyphen"/>mours into their ſociety.</p>
+            </div>
+            <div type="part">
+               <pb n="84" facs="tcp:170250:43"/>
+               <head>Of the Cordiall remedies to pre<g ref="char:EOLhyphen"/>ſerve our bodies from the Small Pox and Meaſles.</head>
+               <p>The roots of Angelica is a ſingular remedy againſt all in<g ref="char:EOLhyphen"/>fections taken by evil and corrupt aire, if you hold a piece of it in your mouth, or chew the ſame between your teeth, it doth moſt certainly dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve away the peſtilentiall aire.</p>
+               <p>Zedoary is an excellent root held or chewed in the mouth; ſo are the roots of Scoizone<g ref="char:EOLhyphen"/>ra, and Contra-ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>va, condi<g ref="char:EOLhyphen"/>ted.</p>
+               <p>Treacle-water. two ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ces, with the like quantity of Sack, is much commended,
+<pb n="85" facs="tcp:170250:43"/> being drunk, and rubbing the noſtrils, mouth and eares with the ſame,</p>
+               <p>The Electuary following is very effectuall.</p>
+               <p>Take of the beſt Treacle three ounces, Juniper-berries and Carduus-ſeeds, of each one dramme and a half, of Bolearmoniack prepared half an ounce, of Damargariton Frigidum, the powder of Harts-horn and red Cor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, of each one dramme; mix them with the ſyrup of Citions, as much as will make all into a I quid Electuary; take every morning the quantity of a Filberd in two ſpoonfuls of Scabious-water.</p>
+               <p>Theſe following Tablets are alſo very profitable.</p>
+               <p>Take the roots of Angeli<g ref="char:EOLhyphen"/>ca,
+<pb n="86" facs="tcp:170250:44"/> Ga<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tian, Zedoarie, Ele<g ref="char:EOLhyphen"/>campane, of each halfe an ounce; of Citron and Sorrel<g ref="char:EOLhyphen"/>ſeeds, of each a dram, of the dried rinds of Citrons, Cina<g ref="char:EOLhyphen"/>mon, Bay &amp; Juniper-berries, &amp; Saffron, of each two ſcruples; of Conſerve of Roſes and Bugloſs, of each two ounces, and fine hard Sugar as much as is ſufficient; make thereof Tablets of the weight of half a dram; take one of them in a morning, and before meat two hours, one at a time.</p>
+               <p>Mithridate, and <hi>London</hi> or <hi>Venice</hi>-Treacle, are commen<g ref="char:EOLhyphen"/>ded above all Cordialls, ad<g ref="char:EOLhyphen"/>ding for every half ounce of each of them, one ounce and a half of Conſerves of Roſes, or of Bugloſs, and two or three drammes of Bole-Ar<g ref="char:EOLhyphen"/>moniack
+<pb n="87" facs="tcp:170250:44"/> prepared: Of theſe being incorporated make a Conſerve: it is to be taken in the morning the quantity of a Filberd.</p>
+               <p>Take of preſerved Citron and Orange pills, of each two drammes; of Conſerve of Roſes and the roots of Bu<g ref="char:EOLhyphen"/>gloſſe, of each ſix drammes, of Citron ſeeds one ounce, of Anis and Fennel-ſeeds, of each two drammes, of Ange<g ref="char:EOLhyphen"/>lica-roots three drammes, ſugar of Roſes as much as ſufficeth: make it into a body of a Conſerve, and take a little of it before you goe abroad every morning.</p>
+               <p>The pills of Ruffus are ac<g ref="char:EOLhyphen"/>counted moſt effectuall pre<g ref="char:EOLhyphen"/>ſervatives, ſo that <hi>Ruffus</hi> him<g ref="char:EOLhyphen"/>ſelf ſaith, that he never knew
+<pb n="88" facs="tcp:170250:45"/> any to be infected that uſed them: the compoſition of them is thus,</p>
+               <p>Take of the beſt Alloes half a dramme, of Gum-Amonia<g ref="char:EOLhyphen"/>cum two drammes, of Myrrhe two drammes and a half, of Maſtick two drammes, of Saffron ſeven graines: make them all into fine powder, and incorporate them with the juice of Citrons, or the ſyrup of Lemmons, and make thereof a Miſſe, and take the weight of half a dramme eve<g ref="char:EOLhyphen"/>ry morning two or three hours before meat, and drink the water of Sorrell after it.</p>
+               <p>The Alloes doth cleanſe and purge, Myrrhe reſiſts pu<g ref="char:EOLhyphen"/>trefaction, Maſtick ſtreng<g ref="char:EOLhyphen"/>thens, Saffron exhilerates and makes lively the ſpirits.</p>
+            </div>
+            <div type="part">
+               <pb n="89" facs="tcp:170250:45"/>
+               <head>Of Locall Medicines.</head>
+               <p>All aromatical, aſtringent, or ſpirituous things, have pro<g ref="char:EOLhyphen"/>per vertues againſt ill and in<g ref="char:EOLhyphen"/>fectious aires, and to ſtreng<g ref="char:EOLhyphen"/>then the heart and the brain. Of this kind are Rue, Balme, Roſemary, Scordium, Sage, Wormwood, Nutmeg, Cloves Saffron, the roots of Angeli<g ref="char:EOLhyphen"/>cs, and Lovage, and ſuch like, which muſt be macerated one night in ſharp Vinegar and <hi>Aqua vitae,</hi> and then tyed in a knot as big as an egg, or ra<g ref="char:EOLhyphen"/>ther let it be carried in a ſponge ſoked in the ſaid infu<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>Take Cinamon and Cloves beaten together, with a little Saffron, in equal parts, of
+<pb n="90" facs="tcp:170250:46"/> vinegar of Roſes, and Roſe<g ref="char:EOLhyphen"/>water, into which you muſt dip a ſponge, which rowled in a fair linnen cloth, you may carry it in your hand, and often ſmell to.</p>
+               <p>Or take of Wormwood half a handful, ten Cloves, of the roots of Gentian and An<g ref="char:EOLhyphen"/>gelica, of each two drammes, of Vinegar and Roſe-water, of each two ounces, of Trea<g ref="char:EOLhyphen"/>cle &amp; Mithridate of each one dramme; beat and mix them all well together, and let a ſponge be dipped therein, and uſed as aboveſaid.</p>
+               <p>Or you may make Poman<g ref="char:EOLhyphen"/>ders, the form of which is thus: Take of yellow San<g ref="char:EOLhyphen"/>ders, Mace, Citron pills. Roſe<g ref="char:EOLhyphen"/>leaves, of each two drammes; of Banzoin, Ladanum, Storax,
+<pb n="91" facs="tcp:170250:46"/> of each half a dramme; of Cinamon and Saffron, of each two ſcruples; of Camphire and Ambergreece, of each one ſcruple; of Musk three graines: let them all be made into powder, and with Traga<g ref="char:EOLhyphen"/>ganth diſſolved into Roſe<g ref="char:EOLhyphen"/>water, make a Pomander.</p>
+               <p>And for the ſame purpoſe you may carry about with you ſweet powders, made of Ambergreece, Storax, Orris, Nutmegs, Cloves, Mace, Saf<g ref="char:EOLhyphen"/>fron, Benzoin, Musk, Cam<g ref="char:EOLhyphen"/>phire, Roſes, Violets, Marjo<g ref="char:EOLhyphen"/>ram, and ſuch like; of which being mixed together, pow<g ref="char:EOLhyphen"/>ders may be compounded and made.</p>
+               <p>Many more Receipts I could ſet down, both for the inten<g ref="char:EOLhyphen"/>tions curative and preſerva<g ref="char:EOLhyphen"/>tive,
+<pb n="92" facs="tcp:170250:47"/> but I hope theſe flowers of the moſt learned &amp; experi<g ref="char:EOLhyphen"/>enced, <hi>Sennertus, Riverius, Bar<g ref="char:EOLhyphen"/>tholomeus, per Dulcis, Holle<g ref="char:EOLhyphen"/>rius, Fuchſius, Parius,</hi> and divers other Authors, with the known experience of my Father's and my own, may ſuffice untill the next opper<g ref="char:EOLhyphen"/>tunity.</p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
